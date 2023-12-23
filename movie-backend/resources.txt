@@ -1,0 +1,4 @@
+database username: ahmersayyed
+password: Ahm@123 
+npm i bcrypt -> backend
+npm i jsonwebtoken -> backend
